@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh Yadav</h1>
-<h3 align="center">A passionate Computer Vision Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 💬 Ask me about **Computer Vision, Deep Learning, Tensorflow, Image Processing, Object Detection**
+- 💬 Ask me about **Python, Flask, DSA, System Design, Computer Vision, Deep Learning, Tensorflow, Image Processing, Object Detection**
 
 - 📫 How to reach me **siddharthsy1606@gmail.com**
 
