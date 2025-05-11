@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **siddharthsy1606@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p7N6bU-wny4FjeH-2u6JtG4Ljx3fptsh/view?usp=sharing](https://drive.google.com/file/d/1p7N6bU-wny4FjeH-2u6JtG4Ljx3fptsh/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ew0Gt816NecD6rnRxdHaJAfyY_Ttaa1p/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
